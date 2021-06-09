@@ -9,7 +9,7 @@ import { ResponsiveWaffle } from '@nivo/waffle'
 const index = () => {
 
   return (
-    <div style={{ height:'50vh', width:'100vw' }}>
+    <div style={{ height:'50vh', width:'100vw'}}>
       <ResponsiveBar
           data={data}
           keys={[ 'hot dog', 'burger', 'sandwich', 'kebab', 'fries', 'donut' ]}
