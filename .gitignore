@@ -3,5 +3,4 @@ node_modules/
 public
 
 dataWaffle.js   
-index-*
-index copy*
+pages/index-*
