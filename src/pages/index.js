@@ -1,6 +1,6 @@
 import React from "react";
 import * as D3 from "d3";
-import data from "./dataBar"
+import data from "../dataBar"
 import { ResponsiveFunnel } from '@nivo/funnel'
 import { ResponsiveBar } from '@nivo/bar'
 import { ResponsiveWaffle } from '@nivo/waffle'
